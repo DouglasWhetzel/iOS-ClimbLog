@@ -1,0 +1,9 @@
+{
+    "Gyms":
+    [
+        {"gymID":"1","gymName":"Vertical Rock","gymAddress":"10225 Nokesville Road","gymCity":"Manassas","gymState":"Virginia","gymZIP":"20110","gymURL":"https://climb-va.com/","gymImage":"https://climb-va.com/wp-content/uploads/2018/03/home.jpg","gymRating":"4.6"},
+        {"gymID":"2","gymName":"Sportrock Alexandria","gymAddress":"5308 Eisenhower Avenue","gymCity":"Alexandria","gymState":"Virginia","gymZIP":"22304","gymURL":"https://sportrock.com/","gymImage":"https://img.grouponcdn.com/deal/4XRQthwHmVkR5GWcQz3JWny56MgG/4X-1500x900/v1/c700x420.jpg","gymRating":"4.5"},
+        {"gymID":"3","gymName":"Sportrock Sterling","gymAddress":"45935 Maries Road","gymCity":"Sterling","gymState":"Virginia","gymZIP":"20166","gymURL":"https://sportrock.com/","gymImage":"https://media-cdn.tripadvisor.com/media/photo-s/06/1f/30/92/sportrock-climbing-center.jpg","gymRating":"4.5"},    
+    ],
+    "Status":"OK"
+}
